@@ -9,17 +9,17 @@ function Projects() {
     },
     {
       title: "AI Supply Chain Control Tower",
-      company: "Electronic Components Manufacturer",
+      company: "Electronic Components Manufacturer (Avnet)",
       description: "PowerBI dashboards & AI agents for supply gap analysis. End-to-end visibility across Continental US operations.",
       tags: ["PowerBI", "AI Agents", "Analytics"],
-      image: "/3070fe7b-8b23-4740-b1a7-413396dab9c5.jpeg"
+      image: "/gen-tech.jpeg"
     },
     {
       title: "AI Request Routing Optimization",
       company: "SCM 518",
       description: "Optimized ChatGPT backend allocation using Gurobi Python. Minimized costs by $0.25/1K tokens with 100% SLA compliance across GPT-4, GPT-3.5, and Turbo models.",
       tags: ["Gurobi", "Linear Programming", "Python"],
-      image: "/e50f5c85-e37c-44ec-ada1-45b8bc56c1c2.jpeg"
+      image: "/scm518.png"
     },
     {
       title: "GreenFleet Motors Investment Analysis",
@@ -33,14 +33,21 @@ function Projects() {
       company: "CIS 508",
       description: "Built predictive model using 12 ML algorithms (Random Forest, XGBoost, SVM). Achieved 97% AUC on 1,470 IBM employee records.",
       tags: ["Machine Learning", "Python", "Scikit-learn"],
-      image: "/3070fe7b-8b23-4740-b1a7-413396dab9c5.jpeg"
+      image: "/cis508.png"
     },
     {
       title: "Process Optimization with Lean Six Sigma",
       company: "SCM 517",
       description: "Applied DMAIC methodology to global proposal process. Built Tableau dashboards across 5 geographies, reducing cycle time by 15%.",
       tags: ["Lean Six Sigma", "Tableau", "DMAIC"],
-      image: "/e50f5c85-e37c-44ec-ada1-45b8bc56c1c2.jpeg"
+      image: "/scm517.png"
+    },
+    {
+      title: "Manufacturing Process Design",
+      company: "Plastic Design Company (PDC)",
+      description: "Conducted robust design of experiments to enhance manufacturing excellence. Evaluated multiple factors and levels using Minitab software.",
+      tags: ["Experimental Design", "Minitab", "DOE"],
+      image: "/pdc.png"
     }
   ]
 

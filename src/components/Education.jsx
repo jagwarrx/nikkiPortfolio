@@ -16,7 +16,7 @@ function Education() {
   ]
 
   const certifications = [
-    { name: "Lean Six Sigma Green Belt", status: "In Progress", date: "Expected Dec 2025" },
+    { name: "Lean Six Sigma Green Belt (PDC)", status: "In Progress", date: "Expected Dec 2025" },
     { name: "Google Data Analytics", status: "Completed", date: "Feb 2022" }
   ]
 

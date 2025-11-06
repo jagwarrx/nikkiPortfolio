@@ -8,7 +8,7 @@ function Experience() {
     },
     {
       title: "Capstone: AI Supply Chain Control Tower",
-      company: "Electronic Components Manufacturer",
+      company: "Electronic Components Manufacturer (Avnet)",
       period: "Jun 2025 - Present",
       highlights: ["PowerBI dashboards & AI agents", "End-to-end supply chain visibility across Continental US"]
     },
